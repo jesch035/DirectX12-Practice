@@ -1,0 +1,8 @@
+﻿  compilation object save succeeded; see C:\Projects\GitHub\DirectX12-Practice\x64\Release\shaders.cso
+  HelloTriangle.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 257 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HelloTriangleSample.vcxproj -> C:\Projects\GitHub\DirectX12-Practice\x64\Release\HelloTriangleSample.exe

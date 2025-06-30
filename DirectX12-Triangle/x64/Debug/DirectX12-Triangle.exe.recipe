@@ -2,12 +2,12 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Projects\GitHub\DirectX12-Practice\DirectX12\x64\Debug\DirectX12-Triangle.exe</FullPath>
+      <FullPath>C:\Projects\GitHub\DirectX12-Practice\x64\Debug\DirectX12-Triangle.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Projects\GitHub\DirectX12-Practice\DirectX12\x64\Debug\shader.cso</FullPath>
+      <FullPath>C:\Projects\GitHub\DirectX12-Practice\x64\Debug\shader.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
